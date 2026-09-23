@@ -1,6 +1,8 @@
 # APS-Streaming-Project
 Projeto de aplicativo de Streaming para a Diciplina de Analise e Projeto de Sistemas.
 
+---
+
 Neste projeto será implementado os recursos requisitados durante a aula, como os recursos requisitados no dia 22/09:
 - Implemente a classe Main para
   - Criar um filme
@@ -19,3 +21,7 @@ Neste projeto será implementado os recursos requisitados durante a aula, como o
   - void deveAdicionarEpisodioNaTemporada()
   - void naoDeveAdicionarEpisodiosComMesmoNumero()
   - void deveRetornarNullQuandoEpisodioNaoExistir()
+
+---
+
+Pode ser acessado no [GitHub](https://github.com/PedroFernandes-fa/APS-Streaming-Project)
